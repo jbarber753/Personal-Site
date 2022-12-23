@@ -1,0 +1,24 @@
+#header {
+    width: 100%;
+    max-width: 100%;
+    height: 5vw;
+    background-color: black;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    font-size: 2vw;
+}
+
+.link {
+    text-decoration: none;
+    color: white;
+}
+
+.active-link {
+    text-decoration: none;
+    color: palegoldenrod;
+}
+
+.link:hover {
+    color: palegoldenrod;
+}
